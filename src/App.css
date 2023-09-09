@@ -115,9 +115,8 @@ main{
 }
 .order{
   position: absolute;
-  top: 20px;
-  left: 20px;
-  transform: translate(-50%);
+  top: 50px;
+  left: 50px;
   font-size: 7em;
   z-index: 4;
 }

@@ -41,7 +41,7 @@ const MainField = () => {
 
   let catchMidlleMove = (id) => {  
       if(field[id] === 0){
-        setNextMove(9)
+        setNextMove(id)
       }else{
         setNextMove(9)
       

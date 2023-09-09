@@ -30,8 +30,8 @@ main{
 .not-chosen{
   position: relative;
 
-  width: 27.2%;
-  height: 27.2%;
+  width: 27%;
+  height: 27%;
   padding: 3%; 
   z-index: 1;
 
